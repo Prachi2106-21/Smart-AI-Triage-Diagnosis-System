@@ -1,0 +1,9 @@
+flask
+pdfplumber
+pandas
+numpy
+scikit-learn
+joblib
+shap
+plotly
+python-dotenv
